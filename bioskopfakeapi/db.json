@@ -1,0 +1,71 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "admin",
+      "password": "123"
+    },
+    {
+      "id": 2,
+      "username": "dobleh",
+      "password": "qwe"
+    },
+    {
+      "id": 3,
+      "username": "jamal",
+      "password": "1234"
+    }
+  ],
+  "movies": [
+    {
+      "id": 1,
+      "title": "Jumanji: The Next Level",
+      "sutradara": "Jake Kasdan",
+      "durasi": "1221",
+      "jadwal": [
+        9,
+        12,
+        16
+      ],
+      "sinopsis": "Dwayne Johnson, Karen Gillan, Jack Black dan Kevin Hart kembali ke Jumanji, keempatnya harus menyelamatkan salah satu teman mereka. Namun permainan telah berubah. Para pemain kini harus lebih berani melintasi rintangan ekstrem dan kembali dengan selamat dari permainan paling berbahaya di dunia.",
+      "image": "https://media.21cineplex.com/webcontent/gallery/pictures/157422945871583_287x421.jpg",
+      "genre": "Action",
+      "produksi": "Columbia Pictures"
+    },
+    {
+      "id": 1,
+      "title": "Jumanji: The Next Level",
+      "sutradara": "Jake Kasdan",
+      "durasi": "1221",
+      "jadwal": [
+        9,
+        12,
+        16
+      ],
+      "sinopsis": "Dwayne Johnson, Karen Gillan, Jack Black dan Kevin Hart kembali ke Jumanji, keempatnya harus menyelamatkan salah satu teman mereka. Namun permainan telah berubah. Para pemain kini harus lebih berani melintasi rintangan ekstrem dan kembali dengan selamat dari permainan paling berbahaya di dunia.",
+      "image": "https://media.21cineplex.com/webcontent/gallery/pictures/157356145959988_290x426.jpg",
+      "genre": "Action",
+      "produksi": "Columbia Pictures"
+    },
+    {
+      "title": "asd",
+      "image": "https://image-us.samsung.com/SamsungUS/home/mobile/phones/all-other-phones/pdp/sm-a600pzkaspr/feature-benefits/FB6-SM-A600PZKASPR.jpg?$feature-benefit-jpg$",
+      "sinopsis": "asdasdasdasd",
+      "sutradara": "asd",
+      "genre": "asd",
+      "durasi": "12",
+      "produksi": "Malih & Bolot Pictures",
+      "id": 2
+    },
+    {
+      "title": "asdasd",
+      "image": "https://image-us.samsung.com/SamsungUS/home/mobile/phones/all-other-phones/pdp/sm-a600pzkaspr/feature-benefits/FB6-SM-A600PZKASPR.jpg?$feature-benefit-jpg$",
+      "sinopsis": "asdasd",
+      "sutradara": "asdasdsad",
+      "genre": "asdasdsad",
+      "durasi": "asd",
+      "produksi": "Malih & Bolot Pictures",
+      "id": 3
+    }
+  ]
+}
